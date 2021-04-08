@@ -90,7 +90,7 @@
 
                 <!-- Sell Orders & Buy Order -->
                 <div class="row match-height">
-                    <div class="col-12 col-xl-6">
+                    <div class="col-12 col-xl-8">
                         <div class="card">
                             <div class="card-header">
                                 <h4 class="card-title">Sell Order</h4>
@@ -146,7 +146,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-xl-6">
+                    <div class="col-12 col-xl-4">
                         <div class="card">
                             <div class="card-header">
                                 <h4 class="card-title">Buy Order</h4>
